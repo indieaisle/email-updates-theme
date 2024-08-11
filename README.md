@@ -1,4 +1,4 @@
-# Theme for email updates
+# Indie web email updates theme
 ### HTML template of reusable email modules for your newsletter
 
 <img src="https://indieaisle.com/images/newsletter-template-preview.png" alt="Screenshot of newsletter template example" width="300">
@@ -26,12 +26,10 @@ Using Blocks Edit:
 5. Click on placeholder content on the right to change it.
 
 #### How do I send out my email?
-You'll first need to export your email code out of Blocks Edit: In the visual editor, after saving your updates, click **Export** at the top.
+You'll first need to export your emails out of Blocks Edit: In the visual editor, after saving your updates, click **Export** at the top.
 
 If you added images to your email, you'll have to host them somewhere. You can use the Blocks Edit [FTP integration](https://blocksedit.com/help/integrations/ftp-sftp-setup/) to upload to your site.
 
 Otherwise, you'll [have the option](https://blocksedit.com/help/editor/export-to-email-provider/) to download your images which you will then need to upload manually to your host, and update the image paths in your email's HTML code.
-
-If you don't have any added images, or have exported your images, you can then export and download your HTML code.
 
 To send out your email, you'll need to import your saved HTML to your email provider where you keep your email list.
